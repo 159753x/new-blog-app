@@ -29,6 +29,8 @@
         <h2 class="font-semibold text-xl text-gray-800 leading-tight">
             {{ __('Posts') }}
         </h2>
+        <br>
+        <a href="{{ route('posts.create') }}"> + Create New Post...</a>
     </x-slot>
 
 @if ($posts->isEmpty())
