@@ -24,8 +24,9 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/159753x/new-blog-app.git
+   cd new-blog-app
+   ```
 
 2.Install Composer Dependencies:
 
