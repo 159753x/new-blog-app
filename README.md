@@ -55,12 +55,11 @@ DB_PASSWORD=
 ```
 ## Database Migration and Seeding
 
-Use the following command to create the necessary database tables:
+Use the following commands to create the necessary database tables and populate them using seeders:
 ```bash
 php artisan migrate
 php artisan db:seed
 ```
-This command will run the seeder classes defined in your application.
 
 ## Usage
 
